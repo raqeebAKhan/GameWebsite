@@ -1,6 +1,6 @@
 # GameWebsite
 ### Car Racing Game
-This Website consists of Car Racing Game where the user car needs to avoid enemy cars and gain score.
+This Website consists of Car Racing Game where the user-car needs to avoid enemy-cars and gain score.
 
 ## Features
 * The user car can gain score/points as far as it can be driven by the user.
